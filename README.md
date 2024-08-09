@@ -1,5 +1,8 @@
-## Hi there 👋
+### Olá, sou o Prof. James Campos 🙋👨‍🏫🧑‍💻
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prof-JamesCampos&show_icons=true&theme=radical)
 <!--
 **Prof-JamesCampos/Prof-JamesCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
